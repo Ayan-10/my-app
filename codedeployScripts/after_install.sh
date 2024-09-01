@@ -1,7 +1,7 @@
 echo "after install ;)"
 source /home/ec2-user/.bash_profile
 
-ls
+sudo su
 cd /home/ec2-user/my-app
 # installs fnm (Fast Node Manager)
 curl -fsSL https://fnm.vercel.app/install | bash
