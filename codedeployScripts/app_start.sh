@@ -2,5 +2,5 @@ echo "app start ;)"
 source /home/ec2-user/.bash_profile
 
 
-cd /home/ec2-user/saas
+cd /home/ec2-user/my-app
 npm run dev
