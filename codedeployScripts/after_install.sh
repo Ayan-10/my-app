@@ -3,6 +3,8 @@ source /home/ec2-user/.bash_profile
 
 sudo su
 cd /home/ec2-user/saas
+sudo su
+cd /home/ec2-user/my-app
 # installs fnm (Fast Node Manager)
 curl -fsSL https://fnm.vercel.app/install | bash
 # activate fnm
